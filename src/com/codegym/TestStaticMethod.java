@@ -2,7 +2,7 @@ package com.codegym;
 
 public class TestStaticMethod {
     public static void main(String[] args) {
-        Student.change();//calling the method
+//        Student.change();//calling the method
 
     //creating objects
         Student s1 = new Student(111,"Hoang");
